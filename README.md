@@ -18,7 +18,7 @@ ansible-galaxy collection install community.general --upgrade
 
 # Deploy K8s
 ## Prerequisits
-- 2 nodes
+- 3 nodes
 - Ubuntu 22.04
 - 2 CPUs
 - 8GB RAM
