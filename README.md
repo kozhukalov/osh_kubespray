@@ -1,4 +1,4 @@
-# Clone repo and checkout release
+# Clone Kubespray
 ```bash
 mkdir ~/osh_demo_kubespray
 cd ~/osh_demo_kubespray
